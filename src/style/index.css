@@ -1,0 +1,13 @@
+.calculator{
+    display: flex;
+    width: 264px;
+    margin: 0 auto;
+}
+.result{
+    width:215px;
+    margin: 0 auto;
+}
+.card{
+    width:20rem;
+    margin: 0 auto;
+}
